@@ -1,0 +1,6 @@
+{
+  "name": "Creador de Publicidad Móvil",
+  "description": "Crea publicidad profesional para todo tipo de negocios con fotos animadas, transiciones cinematográficas, música, optimización de textos con IA, voces realistas y programación en redes sociales.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
